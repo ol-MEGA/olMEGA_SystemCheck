@@ -8,6 +8,7 @@ Toolkit for calibration of olMEGA bluetooth hardware
 - Matlab R2020a
 - Audio input/output
 
+## License:
 
 Copyright 2020 olMEGA
 
