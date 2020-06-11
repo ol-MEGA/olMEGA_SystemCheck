@@ -1,0 +1,7 @@
+Enable Bluetooth - No root required
+
+  adb shell settings put global bluetooth_disabled_profiles 1 
+
+Disable Bluetooth - No root required
+
+  adb shell settings put global bluetooth_disabled_profiles 0
