@@ -1,0 +1,7 @@
+legacy/*
+*.asv
+cache
+cache/*
+calibration
+calibration/*
+*.wav
