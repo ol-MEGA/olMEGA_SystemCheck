@@ -3,7 +3,7 @@
 # olMEGA_SystemCheck
 Toolkit for calibration of olMEGA bluetooth hardware
 
-## Prerequisites:
+##Prerequisites:
 - Android Debug Bridge (ADB)
 - Matlab R2020a
 - Audio input/output
